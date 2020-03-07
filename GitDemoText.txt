@@ -1,1 +1,14 @@
 Hello India kripa
+
+  190  git init
+  191  git add GitDemoText
+  192  git add GitDemoText.txt
+  193  git config --global user.name "DemoGit"
+  194  git config --global user.email "kripashankar8188@gmail.com"
+  195  git commit -m "first commit"
+  196  git remote add origin https://github.com/kripashankarsingh8188/DemoGit.git
+  197  git push -u origin master
+  198  git add GitDemoText.txt
+  199  git commit -m "msg"
+  200  git push
+
