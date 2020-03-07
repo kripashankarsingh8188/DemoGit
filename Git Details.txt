@@ -1,0 +1,26 @@
+echo "# DemoGit" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/kripashankarsingh8188/DemoGit.git
+git push -u origin master
+
+
+
+kripashankar8188@gmail.com
+kripashankarsingh8188
+kripashankar8188_github
+
+
+add-->commit-->push
+
+
+/kripashankarsingh8188/DemoGit
+
+
+
+Git Details:-
+
+kripashankar8188@gmail.com
+kripashankarsingh8188
+kripashankar8188_github
